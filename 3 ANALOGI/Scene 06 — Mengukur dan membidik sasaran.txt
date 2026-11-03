@@ -1,0 +1,19 @@
+Scene 06 — Mengukur dan membidik sasaran
+00:22–00:26 · 4 detik
+
+Narasi:
+"...menarik busur, mengukur arah angin, dan membidik sasaran."
+
+Visual:
+
+Pemanah sudah berada dalam posisi siap. Busur ditarik, anak panah mengarah ke target.
+
+Tambahkan:
+- Target di kejauhan.
+- Rumput bergerak tertiup angin.
+- Garis visual tipis untuk menunjukkan arah bidikan.
+Motion:
+- Tangan menarik tali busur.
+- Rumput bergerak mengikuti angin.
+- Kamera sedikit melakukan pan menuju target.
+- Fokus berpindah dari pemanah ke sasaran.

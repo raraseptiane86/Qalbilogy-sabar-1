@@ -1,0 +1,44 @@
+{
+  "project": "Qalbilogy Tawakkul",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16"
+  },
+  "duration_seconds": 60,
+  "fps_target": 30,
+  "scene_count": 14,
+  "scene_durations_seconds": [
+    4,
+    4,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    4,
+    3,
+    5
+  ],
+  "scene_titles": [
+    "Mengajak penonton berpikir",
+    "Memperlihatkan fenomena",
+    "Perjuangan mencari pekerjaan",
+    "Belum mendapatkan hasil",
+    "Persiapan seorang pemanah",
+    "Mengukur dan membidik sasaran",
+    "Anak panah dilepaskan",
+    "Kehidupan seperti perjalanan",
+    "Tidak semua bisa dikendalikan",
+    "Merasa belum cukup berusaha",
+    "Ada hal yang harus diserahkan",
+    "Memahami tawakkal",
+    "Usaha dan penerimaan",
+    "Melepaskan anak panah"
+  ],
+  "render_status": "browser animatic prototype; final rendering and rigging are future stages"
+}

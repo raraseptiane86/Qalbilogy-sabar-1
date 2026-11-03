@@ -1,0 +1,45 @@
+{
+  "character": "Salsa",
+  "project": "Qalbilogy",
+  "version": "1.0.0-prototype",
+  "canonical_reference": "assets/reference/salsa-original.jpg",
+  "master_cutout": "assets/master/salsa-master-cutout.png",
+  "expression_pose_reference": "assets/reference/expression-pose-reference.png",
+  "visual_lock": {
+    "hijab": "lavender/purple, rounded silhouette",
+    "inner_cap": "white scalloped edge",
+    "face": "round light-peach face, rosy cheeks",
+    "glasses": "large round dark-outline glasses",
+    "outfit": "lavender hijab/upper covering, white tunic with lavender vertical accents, long lavender skirt, lavender shoes",
+    "linework": "hand-drawn dark charcoal outline with slight organic variation",
+    "rendering": "soft pastel hand-coloured illustration"
+  },
+  "expressions": [
+    "neutral",
+    "happy",
+    "thinking",
+    "surprised",
+    "confused",
+    "sad",
+    "serious",
+    "explaining"
+  ],
+  "poses": [
+    "standing-neutral",
+    "waving-hello",
+    "pointing",
+    "explaining",
+    "thinking",
+    "holding-book",
+    "walking",
+    "sitting-cross-legged"
+  ],
+  "rig_status": "reference-locked prototype; true separated vector body-part rig is a later production step",
+  "rules": [
+    "Do not redesign or reinterpret the character.",
+    "Do not alter face shape, glasses, hijab silhouette, outfit design, palette, or body proportions.",
+    "Expressions and poses may change only by using approved library assets or carefully rigged derivatives.",
+    "For new views or poses not present in the reference library, preserve the character model sheet and request a model-consistent drawing.",
+    "Keep props on separate layers from the character."
+  ]
+}

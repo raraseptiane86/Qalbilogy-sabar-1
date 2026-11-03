@@ -1,0 +1,15 @@
+Scene 05 — Persiapan seorang pemanah
+00:18–00:22 · 4 detik
+
+Narasi:
+"Coba bayangkan seorang pemanah. Dia bisa mengatur posisi tubuh..."
+
+Visual:
+
+Seorang pemanah berdiri di lapangan terbuka. Ia mulai mengatur posisi kaki dan tubuh sebelum memanah.
+
+Motion:
+- Pemanah melangkahkan kaki.
+- Tubuh sedikit berputar.
+- Kaki mengambil posisi yang stabil.
+- Kamera melakukan slow zoom in.

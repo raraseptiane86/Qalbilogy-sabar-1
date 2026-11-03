@@ -1,0 +1,16 @@
+Scene 07 — Anak panah dilepaskan
+00:26–00:30 · 4 detik
+
+Narasi:
+"Tapi setelah anak panah dilepaskan, dia nggak bisa lagi mengendalikan seluruh perjalanannya."
+
+Visual:
+
+Anak panah meninggalkan busur dan melesat menuju target. Pemanah masih berdiri di tempatnya, tetapi sekarang anak panah sudah berada di luar jangkauannya.
+
+Motion:
+- Tali busur kembali ke posisi semula.
+- Anak panah bergerak cepat meninggalkan frame pemanah.
+- Kamera mengikuti pergerakan anak panah.
+- Akhiri dengan visual anak panah yang masih melayang di udara.
+Jangan langsung perlihatkan apakah anak panah mengenai sasaran atau tidak. Biarkan hasilnya tetap menjadi misteri.

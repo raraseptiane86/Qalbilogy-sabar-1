@@ -1,0 +1,19 @@
+Scene 03 — Perjuangan mencari pekerjaan
+00:08–00:13 · 5 detik
+
+Narasi:
+"Misalnya, seseorang yang sedang mencari pekerjaan. Dia sudah mengirim puluhan lamaran, mempersiapkan diri untuk wawancara, bahkan belajar keterampilan baru."
+
+Visual cerita:
+
+Seorang pemuda duduk di meja kerjanya. Di depannya terdapat laptop, dokumen lamaran, buku, dan catatan belajar.
+
+Gunakan karakter laki-laki User 1 (kaus oranye) dari referensi karaktermu sebelumnya agar konsisten.
+
+Motion graphics:
+- Detik 0–1: Pemuda mengetik di laptop.
+- Detik 1–2: Dokumen lamaran muncul di samping laptop.
+- Detik 2–3: Beberapa ikon amplop muncul berturut-turut.
+- Detik 3–4: Pemuda membuka buku dan belajar.
+- Detik 4–5: Kalender dan catatan wawancara muncul.
+Tidak perlu membuat lima gambar. Cukup satu ilustrasi utama dengan beberapa aset tambahan yang dianimasikan terpisah.

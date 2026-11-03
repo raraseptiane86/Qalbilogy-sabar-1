@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Qalbilogy — Tawakkul Motion Storyboard</title>
+<link rel="stylesheet" href="src/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div><strong>QALBILOGY</strong><span> · Tawakkul / Motion Storyboard</span></div>
+  <div class="top-actions"><button id="playBtn">▶ Play</button><button id="restartBtn">↺ Restart</button><button id="fullBtn">⛶ Fullscreen</button></div>
+</header>
+<main>
+  <section class="viewer-wrap">
+    <div class="stage-shell">
+      <div id="stage" class="stage" aria-label="Preview animasi vertikal 9:16"></div>
+      <div class="stage-overlay"><span id="sceneCounter">SCENE 01 / 14</span><span id="timeCounter">00:00 / 01:00</span></div>
+    </div>
+    <div class="timeline"><div id="progress"></div></div>
+    <div class="transport"><button id="prevBtn">← Sebelumnya</button><input id="scrubber" type="range" min="0" max="60000" value="0"><button id="nextBtn">Berikutnya →</button></div>
+    <p class="hint">Preview animasi berbasis SVG/CSS. Jalankan di browser modern; gunakan tombol scene untuk melihat storyboard per adegan.</p>
+  </section>
+  <aside class="side">
+    <h1>Tawakkul</h1><p class="muted">14 scene · 60 detik · 9:16</p>
+    <div id="sceneList" class="scene-list"></div>
+    <div class="notes"><strong>Catatan visual</strong><p>Bahasa visual memakai ilustrasi pastel, outline organik, metafora visual, kamera bergerak, reveal bertahap, parallax, dan kinetic typography. Ini mengambil pendekatan explainer storytelling, bukan menyalin aset atau desain Kok Bisa?.</p></div>
+  </aside>
+</main>
+<footer>Qalbilogy Motion System · Salsa Master asset · SVG + CSS + JavaScript</footer>
+<script src="src/scenes.js"></script><script src="src/app.js"></script>
+</body></html>
